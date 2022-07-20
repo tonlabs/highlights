@@ -1,0 +1,25 @@
+{
+  "cards": [
+    {
+      "title": "Buy crypto with card",
+      "caption": "Visa, Mastercard",
+      "cover": {
+        "uri": ""
+      }
+    },
+    {
+      "title": "Earn with your crypto",
+      "caption": "Up to 26% APR",
+      "cover": {
+        "uri": ""
+      }
+    },
+    {
+      "title": "Swap your digital holdings",
+      "caption": "Low fees",
+      "cover": {
+        "uri": ""
+      }
+    }
+  ]
+}
