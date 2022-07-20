@@ -1,6 +1,7 @@
 {
   "cards": [
     {
+      "displayOrder": 1,
       "title": "Buy crypto\nwith card",
       "caption": "Visa, Mastercard",
       "cover": {
@@ -9,6 +10,7 @@
       "link": "https://payments.surf/getever"
     },
     {
+      "displayOrder": 2,
       "title": "Earn with\nyour crypto",
       "caption": "Up to 26% APR",
       "cover": {
@@ -17,6 +19,7 @@
       "link": "https://staking.surf"
     },
     {
+      "displayOrder": 3,
       "title": "Swap your\ndigital holdings",
       "caption": "Low fees",
       "cover": {
