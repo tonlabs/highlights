@@ -4,21 +4,21 @@
       "title": "Buy crypto with card",
       "caption": "Visa, Mastercard",
       "cover": {
-        "uri": ""
+        "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/covers/bgimg_1.png"
       }
     },
     {
       "title": "Earn with your crypto",
       "caption": "Up to 26% APR",
       "cover": {
-        "uri": ""
+        "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/covers/bgimg_2.png"
       }
     },
     {
       "title": "Swap your digital holdings",
       "caption": "Low fees",
       "cover": {
-        "uri": ""
+        "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/covers/bgimg_3.png"
       }
     }
   ]
