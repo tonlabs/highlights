@@ -1,7 +1,7 @@
 {
   "cards": [
     {
-      "title": "Buy crypto with card",
+      "title": "Buy crypto\nwith card",
       "caption": "Visa, Mastercard",
       "cover": {
         "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/covers/bgimg_1.png"
@@ -9,7 +9,7 @@
       "link": "https://payments.surf/getever"
     },
     {
-      "title": "Earn with your crypto",
+      "title": "Earn with\nyour crypto",
       "caption": "Up to 26% APR",
       "cover": {
         "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/covers/bgimg_2.png"
@@ -17,7 +17,7 @@
       "link": "https://staking.surf"
     },
     {
-      "title": "Swap your digital holdings",
+      "title": "Swap your\ndigital holdings",
       "caption": "Low fees",
       "cover": {
         "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/covers/bgimg_3.png"
