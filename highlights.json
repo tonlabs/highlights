@@ -20,6 +20,13 @@
       "cover": {
         "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/covers/bgimg_3.png"
       }
+    },
+    {
+      "title": "Test card!",
+      "caption": "Test card caption with some really important information",
+      "cover": {
+        "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/loon-image-small.jpeg"
+      }
     }
   ]
 }
