@@ -25,7 +25,7 @@
       "title": "Test card!",
       "caption": "Test card caption with some really important information",
       "cover": {
-        "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/loon-image-small.jpeg"
+        "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/covers/loon-image-small.jpeg"
       }
     }
   ]
