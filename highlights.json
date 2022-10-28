@@ -2,6 +2,7 @@
   "cards": [
     {
       "displayOrder": 1,
+      "key": "payments-getever",
       "title": "Buy crypto\nwith card",
       "caption": "Visa, Mastercard",
       "cover": {
@@ -11,6 +12,7 @@
     },
     {
       "displayOrder": 2,
+      "key": "staking-boosted",
       "title": "Earn with\nyour crypto",
       "caption": "Up to 26% APR",
       "cover": {
@@ -20,6 +22,7 @@
     },
     {
       "displayOrder": 3,
+      "key": "payments-swap",
       "title": "Swap your\ndigital holdings",
       "caption": "Low fees",
       "cover": {
