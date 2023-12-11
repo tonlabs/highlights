@@ -1,16 +1,6 @@
 {
   "cards": [
     {
-      "displayOrder": 1,
-      "key": "payments-getever",
-      "title": "Buy crypto\nwith card",
-      "caption": "Visa, Mastercard",
-      "cover": {
-        "uri": "https://raw.githubusercontent.com/tonlabs/highlights/master/covers/bgimg_1.png"
-      },
-      "link": "https://payments.surf/getever"
-    },
-    {
       "displayOrder": 2,
       "key": "staking-boosted",
       "title": "Earn with\nyour crypto",
